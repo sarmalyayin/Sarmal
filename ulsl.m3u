@@ -1,0 +1,175 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1A" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1A
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jqrfyoyq4yr&app=0f6fa969-d1bc-4b70-8a13-5fdaacc48769&ce=3
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1B
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1C
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",HT Spor
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: ziraat" tvg-logo="" group-title="🇹🇷 ULUSAL",Ziraat Kupası
+http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aspor" tvg-logo="" group-title="🇹🇷 ULUSAL",Aspor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aspor" tvg-logo="" group-title="🇹🇷 ULUSAL",Aspor 720
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 YD
+https://mobil.92test.cfd/yayint24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Atg
+http://atg100.xyz/DhandrriBelit/CF2FC1F6AA31/49352
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Buzz
+https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 tree" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Tree
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1735
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Reddom
+https://hypertv.duckdns.org:443/play/aQfbAcc3Z2dfTNYrKjqbQBqyjAmhu6X4N4ZrVfWlds8/ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rec
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://r14.1ff0569977873.workers.dev/static/bs1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Kop
+https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
+#EXTINF:-1 tvg-id="" tvg-name="TR: Binat" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Inat
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Vav
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/x24JYGYcb79fsBh_76FpZ6w3DVLc8GRXm0jSaeTvQVnTHRD9CrtrcNqL1DCd-1Q8Db0ckgaKw5Pzz7SEhSmysctaKNMQFrsQHMs_1nMpGUDYvN0zE15XuZ7ZyZrmdP6YoCsjqleOrlL_uGWQAdv1ixflj2iuY9mblYOnrS-Xt5yQRnjVzQirZfNHrfaZBx1b/hls/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: B lex" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Lex
+https://cdn2.lexter1.com/stream/431081.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Yin
+#EXTVLCOPT:http-referrer=https://trgoals1187.xyz
+https://n0.b4c8d3e9f1a2b7c5d64.cfd/yayininat.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Landr
+#EXTVLCOPT:http-referrer=https://landortv3.live/
+https://0pp.raventv14.live/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
+https://hizlisunucum.info/yayin3tv.php/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii avrupa" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii Avrupa
+https://proxy.maxpanel.com.tr/https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii1" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii2" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii3" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii4" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii5" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii6" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ssport 1" tvg-logo="" group-title="🇹🇷 ULUSAL", Ssport 1
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ssport 2" tvg-logo="" group-title="🇹🇷 ULUSAL",Ssport 2
+https://bcovlive-a.akamaihd.net/dd4642732bda42809ca41ec99f54d9d9/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ssport 1 Ext" tvg-logo="" group-title="🇹🇷 ULUSAL", Ssport 1 Ext
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ssport 2 Ext" tvg-logo="" group-title="🇹🇷 ULUSAL",Ssport 2 Ext
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 2-DVR
+https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-A" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-A
+https://c.fulltvizle.com/aytv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-C
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="" group-title="🇹🇷 ULUSAL",STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV-SSP" tvg-logo="" group-title="🇹🇷 ULUSAL",STAR TV-SSP
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV" tvg-logo="" group-title="🇹🇷 ULUSAL",SHOW TV
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Blu1" tvg-logo="" group-title="🇹🇷 ULUSAL",Blutv1
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D-A" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL D-A
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D-B" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL D-B
+https://c.fulltvizle.com/kanald/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV" tvg-logo="" group-title="🇹🇷 ULUSAL",FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",FOX TV-DVR
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8
+https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5-A" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8.5-A
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8.5-B
+http://116.202.238.88/TV8.5_TR/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 EUROPE" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7 EUROPE
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="🇹🇷 ULUSAL",A2
+https://c.fulltvizle.com/a2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV4" tvg-logo="" group-title="🇹🇷 ULUSAL",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
