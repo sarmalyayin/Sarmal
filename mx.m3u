@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: Max1" tvg-logo="" group-title="🇹🇷 ULUSAL",Max 1
-https://zirvespor.maxprosevenlerburadami.workers.dev/yayinzirve.m3u8?|X-Requested-With=com.maxpro.tv&X-Special-Header=calmaserefsiz&X-Samet-TR=sesdeneme123&MAXPRO=yavsaginondegideni
+#EXTVLCOPT:X-Requested-With=com.maxpro.tv
+#EXTVLCOPT:X-Special-Header=calmaserefsiz
+#EXTVLCOPT:X-Samet-TR=sesdeneme123
+#EXTVLCOPT:MAXPRO=yavsaginondegideni
+https://zirvespor.maxprosevenlerburadami.workers.dev/yayinzirve.m3u8
