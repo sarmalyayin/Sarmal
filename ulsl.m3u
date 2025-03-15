@@ -53,7 +53,7 @@ http://159.89.3.63/FanTV/Fan123/7625.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rec
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.1ff0569977873.workers.dev/static/bs1.m3u8
+https://r14.cf1-b08.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Kop
 https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
