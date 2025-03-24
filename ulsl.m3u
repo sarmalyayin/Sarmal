@@ -24,8 +24,8 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tv8kablo" tvg-logo="" group-title="🇹🇷 ULUSAL",Tv8kablo
-https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjMvMjAyNSAwNToxODo1OCBBTSZoYXNoX3ZhbHVlPXBEVE9FRGczYUdoK09WWWF0VHp2c2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2E=
+#EXTINF:-1 tvg-id="" tvg-name="TR: TraceUrban" tvg-logo="" group-title="🇹🇷 ULUSAL",Traceurban
+https://ottcdn.kablowebtv.net/live_turksat_sub3/traceurban_stream/index.mpd?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjQvMjAyNSAwODo1MToyNiBBTSZoYXNoX3ZhbHVlPS9ldDZOWUpJN2FuK2RIVGJUMHBQZ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2E=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Aspor" tvg-logo="" group-title="🇹🇷 ULUSAL",Aspor 720
