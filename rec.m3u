@@ -8,43 +8,44 @@ https://v.arectv13.sbs/static/tabi.m3u8
 
 #EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1 V" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Bein Sports 1 Vavoo
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/icDaN0rkvoxJW5Q6eTDaROhygolrWtU-LYTMvn6vyj-GpVIuvJ9LFogYm_S2s-2B-dw4pWBgxVmplUhI1xaKPrOXuRpGxGYQODIscCv6GV0127vY_szsumaHRldpmy0uX6CxC_mMLjppCDoxrFE_PqCoEQlS5brVB2JwScaa_NSlFGDxwFz3vq3Yu4-tRRYk/hls/index.m3u8
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/wh4l80mRnAn9iEypqTn9CsoLT5c1LfObrmdgp-aKrJFFcXPz-qZtuyffleq2J8jbIsJEfoG4Q8_UR7n5sDLlnd-IvuneMu2RRl_-V2Hcu1hmXlD5Dwsk372feTxHHI0Pnjav6mGmUwDu8cZ0jAnPhhG-eEy90wGdrSN4QA5ebCY4NxBvxG8ctwljatWA43GY/hls/index.m3u8
 
 
 #EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Bein Sports 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/static/bs1.m3u8
+https://r14.cf1-b12.workers.dev/static/bs1.m3u8
+
 
 #EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 2" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Canlı TV",Bein Sports 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinb2.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinb2.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="Canlı TV",Bein Sports 3
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinb3.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinb3.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="Canlı TV",Bein Sports 4
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinb4.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinb4.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 5" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="Canlı TV",Bein Sports 5
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinb5.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinb5.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="Bein Sports Max 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="Canlı TV",Bein Sports Max 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinbm1.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinbm1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="Bein Sports Max 2" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="Canlı TV",Bein Sports Max 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinbm2.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinbm2.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="Canlı TV",S SPORT 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinss.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinss.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="Canlı TV",S SPORT 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinss2.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinss2.m3u8
 #EXTINF:-1 tvg-id="139" tvg-name="Spor Smart 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="Canlı TV",Spor Smart 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinsmarts.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinsmarts.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="Spor Smart 2" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" group-title="Canlı TV",Spor Smart 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinsms2.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinsms2.m3u8
 #EXTINF:-1 tvg-id="137" tvg-name="Euro Sport 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" group-title="Canlı TV",Euro Sport 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://v.arectv13.sbs/static/euro1.m3u8
@@ -53,13 +54,13 @@ https://v.arectv13.sbs/static/euro1.m3u8
 https://v.arectv13.sbs/static/euro2.m3u8
 #EXTINF:-1 tvg-id="134" tvg-name="Tivibu Spor 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" group-title="Canlı TV",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayint1.m3u8
+https://r14.cf1-b12.workers.dev/list/yayint1.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="Tivibu Spor 2" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" group-title="Canlı TV",Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayint2.m3u8
+https://r14.cf1-b12.workers.dev/list/yayint2.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="Tivibu Spor 3" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" group-title="Canlı TV",Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayint3.m3u8
+https://r14.cf1-b12.workers.dev/list/yayint3.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="Trt Spor HD" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg" group-title="Canlı TV",Trt Spor HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web&
@@ -74,7 +75,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 https://v.arectv13.sbs/static/fbtv.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="Nba TV" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="Canlı TV",Nba TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/yayinnbatv.m3u8
+https://r14.cf1-b12.workers.dev/list/yayinnbatv.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="FightBox" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/4c02bd56395b0a27eab964656b1bb379.jpg" group-title="Canlı TV",FightBox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://v.arectv13.sbs/static/fight.m3u8
@@ -279,7 +280,7 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 http://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&
 #EXTINF:-1 tvg-id="13" tvg-name="TİVİBU SPOR 4" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg" group-title="Canlı TV",TİVİBU SPOR 4
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b11.workers.dev/list/t4.m3u8
+https://r14.cf1-b12.workers.dev/list/t4.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/ddc793321e06b9f205e7b99ebca71e4b.jpg" group-title="Canlı TV",TRT SPOR YILDIZ
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
