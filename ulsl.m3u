@@ -53,7 +53,7 @@ http://159.89.3.63/FanTV/Fan123/7625.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rec
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.cf1-b08.workers.dev/static/bs1.m3u8
+https://r14.cf1-b11.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Kop
 https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
@@ -61,7 +61,7 @@ https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Vav
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/qPv1viKRo_l-K7AKAo6u6FrsYK8Uf5fMYI1jl4IMIbHsWMLcyjH5m7cfjeHbP8lH9nmnyKbmsqbBlRzTN63DvBt1kdg-FnLFwE7X3AoListYwQ8R8a2DEI4jO0hZg5Q1kZ2INFo8F8lnzfv6mNueIzUKSJ2h4kxEZI6o5GQeZbvU8YBofqNTzwh1UyGOb3YW/hls/index.m3u8
+http://45.143.220.207:8008/sunshine/CJ4PmvaiP3y2iNzIMKKqhNEsL8K1I4oY1313EG5yJG2jPrQQ0-gNMOa4QkggKQpvVllrO54H1YIR0KecPhUkKzGR0sdh200kXhVRPWeP2_LbDw3Od8tIizNCI2autd1vhYNMXJkpzKmpqQg7ny8gwUHMZQb6IeqZY70s1ID2qaeQQ4DHaz7a3xfSHzq7YY7RoazrHsn2Mgu7vnWSj1Uv_6cEK-qfqIXk1RPcB80hgeg/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Anon
 https://serveranon1.online:8443/701/index.m3u8
