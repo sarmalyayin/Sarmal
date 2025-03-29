@@ -5,7 +5,12 @@ https://v.arectv13.sbs/static/pl1.m3u8
 #EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı TV",TABİİ SPOR
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://v.arectv13.sbs/static/tabi.m3u8
-https://m.prectv37.sbs
+
+
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Bein Sports 1 Vavoo
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/__I3V3OBGFx9R564iJl9XxuWMrS1S0ddUtTN8EDG4KlFm4mP03616XSrEHp8Ia7nBt38oPoLdv8cJrTFvPQc-DYjeGXXoqwT_Ld5iqAFva8pKB2WwygIpmvjciLUUEJcO8WTIcz7Usi7YcE4iI7VGazRkc0KTJvG37E0ZODs2oe7Z9ulld_fguzymaEffgDE/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Bein Sports 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.cf1-b11.workers.dev/static/bs1.m3u8
