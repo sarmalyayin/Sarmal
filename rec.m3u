@@ -8,7 +8,7 @@ https://v.arectv13.sbs/static/tabi.m3u8
 
 #EXTINF:-1 tvg-id="149" tvg-name="Tv8" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Tv8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://dt-live-bc.ercdn.com/bc/tv8/tv8.isml/mobilesd.m3u8?st=9uDwDG5ewyedr8QVZ9zT6w&e=1743418883&userid=ed36794952
+https://dt-live-bc.ercdn.com/bc/tv8/tv8.isml/mobilehd.m3u8?st=9uDwDG5ewyedr8QVZ9zT6w&e=1743418883&userid=ed36794952
 
 #EXTINF:-1 tvg-id="149" tvg-name="Ekol" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",EkolHd
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
