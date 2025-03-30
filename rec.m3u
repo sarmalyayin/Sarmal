@@ -6,9 +6,9 @@ https://v.arectv13.sbs/static/pl1.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://v.arectv13.sbs/static/tabi.m3u8
 
-#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1 V" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Bein Sports 1 Vavoo
+#EXTINF:-1 tvg-id="149" tvg-name="Tv8" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Tv8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/wh4l80mRnAn9iEypqTn9CsoLT5c1LfObrmdgp-aKrJFFcXPz-qZtuyffleq2J8jbIsJEfoG4Q8_UR7n5sDLlnd-IvuneMu2RRl_-V2Hcu1hmXlD5Dwsk372feTxHHI0Pnjav6mGmUwDu8cZ0jAnPhhG-eEy90wGdrSN4QA5ebCY4NxBvxG8ctwljatWA43GY/hls/index.m3u8
+https://dt-live-bc.ercdn.com/bc/tv8/tv8.isml/mobilesd.m3u8?st=9uDwDG5ewyedr8QVZ9zT6w&e=1743418883&userid=ed36794952
 
 
 #EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://a.prectv35.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı TV",Bein Sports 1
