@@ -15,6 +15,9 @@ http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV8 Todd" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8 Todd
 https://dt-live-bc.ercdn.com/bc/tv8/tv8.isml/mobilehd.m3u8?st=9uDwDG5ewyedr8QVZ9zT6w&e=1743418883&userid=ed36794952
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ekol" tvg-logo="" group-title="🇹🇷 ULUSAL",Ekol
+https://dt-ekol-hls.mncdn.com/digiturk_ekol_hls/bc/ekol/ekol.isml/mobilehd.m3u8?st=TsT3fBCDJihcdqVdCdOzoQ&e=1743428921&userid=md36794952
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
