@@ -18,8 +18,8 @@ https://dt-live-bc.ercdn.com/bc/tv8/tv8.isml/mobilehd.m3u8?st=OGA9fbY47A0T-kM0E0
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ekol" tvg-logo="" group-title="🇹🇷 ULUSAL",Ekol
 https://dt-ekol-hls.mncdn.com/digiturk_ekol_hls/bc/ekol/ekol.isml/mobilehd.m3u8?st=Rvpjm4KQlkLQ1mp-rV2oZQ&e=1743526006&userid=md36794952
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: b1" tvg-logo="" group-title="🇹🇷 ULUSAL",b1
-https://dt-live-bc.akamaized.net/bc/beinsports01/beinsports01d.isml/mobilehd.mpd?hdnts=ip=188.125.171.118~st=1743282000~exp=1743428886~acl=*/bc/beinsports01/beinsports01d.isml/*~id=ac5ae3307c-fc10-c35e-8727-e2f069c8a49c_1743353291840~hmac=bc2203d9ed460f51de60f2b783ded6747431466b0c8c40a269bc534cb2eeb39e
+#EXTINF:-1 tvg-id="" tvg-name="TR: fbts" tvg-logo="" group-title="🇹🇷 ULUSAL",Fb-Ts
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/gb8dbdaQWQB6E2Mhzjt6_XvAM6awSjXngT-al3xvmQIR57lnKA0QqX9yk0QjFzVsRuU9YddvqCgfv3ZpF9HE8i42opEUmPrXd4sxqXU07QwgsgCsEBoJWDDfM5dBBULD4ukwIiJYQbZgnkKfrX7ob-YMXgoiHM8qiMcMSf2_Nk5iHX8_j3dba-vNMvXLvoAl/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
