@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 And" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1 And
-http://cd01001.com/trt-/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 Raw" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1 Raw
 http://185.234.111.229:8000/play/a00c
 
@@ -15,11 +12,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1C
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 Todd" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8 Todd
-https://dt-live-bc.ercdn.com/bc/tv8/tv8.isml/mobilehd.m3u8?st=awo2-6ChNIKEI5acKE8Ikg&e=1744049154&userid=ed36794952
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Ekol" tvg-logo="" group-title="🇹🇷 ULUSAL",Ekol
-https://dt-ekol-hls.mncdn.com/digiturk_ekol_hls/bc/ekol/ekol.isml/mobilehd.m3u8?st=Rvpjm4KQlkLQ1mp-rV2oZQ&e=1743526006&userid=md36794952
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
@@ -32,8 +24,6 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TraceUrban" tvg-logo="" group-title="🇹🇷 ULUSAL",Traceurban
-https://ottcdn.kablowebtv.net/live_turksat_sub3/traceurban_stream/index.mpd?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjQvMjAyNSAwODo1MToyNiBBTSZoYXNoX3ZhbHVlPS9ldDZOWUpJN2FuK2RIVGJUMHBQZ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2E=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Aspor" tvg-logo="" group-title="🇹🇷 ULUSAL",Aspor 720
