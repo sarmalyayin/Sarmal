@@ -20,8 +20,8 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: titan" tvg-logo="" group-title="🇹🇷 ULUSAL",Titan Sport 1
-https://fansports.pp.ua:443/PlayGO/playgo123/2537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: atv" tvg-logo="" group-title="🇹🇷 ULUSAL",Atv Erc
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8ip=1.1.1.1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: titan" tvg-logo="" group-title="🇹🇷 ULUSAL",Titan Sport 2
