@@ -32,8 +32,8 @@ http://95.174.71.114/TR-BEINSPORT1/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: titan" tvg-logo="" group-title="🇹🇷 ULUSAL",Titan Sport 4
-https://pulutotv-sikicitayfa.hf.space/proxy?url=https://vavoo.to/play/2113462398/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: cenatv41" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Cena
+https://seven.zirvedesin7.sbs/yayinzirve.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: titan" tvg-logo="" group-title="🇹🇷 ULUSAL",Titan Sport 5
 intent://pulutotv-sikicitayfa.hf.space/play/199982318697aef4fad04e.m3u8#Intent;package=com.brouken.player;type=video/*;scheme=https;S.title=Nat%20Geo%20Wild;B.start_playback=true;end
 
