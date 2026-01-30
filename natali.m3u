@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="22" tvg-name="2х2" tvg-country="ru" tvg-language="ru" group-title="Rusya",2х2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="12 канал (1)" tvg-country="ru" tvg-language="ru" group-title="Rusya",12 канал (1)
@@ -577,38 +576,6 @@ https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="zaroktv" tvg-name="Zarok TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="sankhyatv" tvg-name="Sankhya TV" tvg-country="tt" tvg-language="tt" group-title="Trinidad ve Tobago",Sankhya TV
-https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="theislamicnetwork" tvg-name="The Islamic Network" tvg-country="tt" tvg-language="tt" group-title="Trinidad ve Tobago",The Islamic Network
-https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
-#EXTINF:-1 tvg-id="beautifullifetv" tvg-name="Beautiful Life TV" tvg-country="tw" tvg-language="tw" group-title="Tayvan",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="cgntvchinese" tvg-name="CGNTV Chinese" tvg-country="tw" tvg-language="tw" group-title="Tayvan",CGNTV Chinese
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 tvg-id="globalnews" tvg-name="Global News" tvg-country="tw" tvg-language="tw" group-title="Tayvan",Global News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="goodtvch1" tvg-name="GOOD TV CH1 綜合台" tvg-country="tw" tvg-language="tw" group-title="Tayvan",GOOD TV CH1 綜合台
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="goodtvch2" tvg-name="GOOD TV CH2 真理台" tvg-country="tw" tvg-language="tw" group-title="Tayvan",GOOD TV CH2 真理台
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="suprememastertv" tvg-name="Supreme Master TV" tvg-country="tw" tvg-language="tw" group-title="Tayvan",Supreme Master TV
-https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-id="taiwanplustv1" tvg-name="Taiwan Plus TV (1)" tvg-country="tw" tvg-language="tw" group-title="Tayvan",Taiwan Plus TV (1)
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="taiwanplustv2" tvg-name="Taiwan Plus TV (2)" tvg-country="tw" tvg-language="tw" group-title="Tayvan",Taiwan Plus TV (2)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞台" tvg-country="tw" tvg-language="tw" group-title="Tayvan",中天新聞台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="唯心電視" tvg-country="tw" tvg-language="tw" group-title="Tayvan",唯心電視
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天才衝衝衝" tvg-country="tw" tvg-language="tw" group-title="Tayvan",天才衝衝衝
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="東森購物60" tvg-country="tw" tvg-language="tw" group-title="Tayvan",東森購物60
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-id="tanzaniasafarichannel" tvg-name="Tanzania Safari Channel" tvg-country="tz" tvg-language="tz" group-title="Tanzanya",Tanzania Safari Channel
-https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
-#EXTINF:-1 tvg-id="tbc1" tvg-name="TBC1" tvg-country="tz" tvg-language="tz" group-title="Tanzanya",TBC1
-https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="espresotv" tvg-name="Espreso TV" tvg-country="ua" tvg-language="ua" group-title="Ukrayna",Espreso TV
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:-1 tvg-id="ewtnukraine" tvg-name="EWTN Ukraine" tvg-country="ua" tvg-language="ua" group-title="Ukrayna",EWTN Ukraine
