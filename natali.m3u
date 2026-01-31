@@ -7,19 +7,20 @@ https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="freedomfreeomuatv2" tvg-name="Freedom (FREEДOM) (UATV) (2)" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Freedom (FREEДOM) (UATV) (2)
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-id="itv" tvg-name="ITV" tvg-country="ua" tvg-language="ua" group-title="Ukraine",ITV
-https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+
 #EXTINF:-1 tvg-id="izmailtv" tvg-name="Izmail TV" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Izmail TV
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="m2" tvg-name="M2" tvg-country="ua" tvg-language="ua" group-title="Ukraine",M2
+
+#EXTINF:-1 tvg-name="M2" tvg-logo="https://i.imgur.com/AfcBWCg.png" tvg-id="M2.ua" group-title="Ukraine",M2
 https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="tv" tvg-name="Ланет.TV" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Ланет.TV
+https://kiev1-cdn.lanet.tv/live/1008.m3u8
 
 #EXTINF:-1 tvg-id="telekanalrai" tvg-name="Telekanal RAI" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="tvrivne1" tvg-name="TV Rivne 1" tvg-country="ua" tvg-language="ua" group-title="Ukraine",TV Rivne 1
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="tv" tvg-name="Ланет.TV" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Ланет.TV
-https://kiev1-cdn.lanet.tv/live/1008.m3u8
+
 #EXTINF:-1 tvg-id="24" tvg-name="Луганск 24" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="НТК ТВ" tvg-country="ua" tvg-language="ua" group-title="Ukraine",НТК ТВ
@@ -43,8 +44,7 @@ http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 
 
-#EXTINF:-1 tvg-name="M2" tvg-logo="https://i.imgur.com/AfcBWCg.png" tvg-id="M2.ua" group-title="Ukraine",M2
-https://live.m2.tv/hls3/stream.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Суспільне Житомир Ⓢ" tvg-logo="https://i.imgur.com/lCv1Xaq.png" tvg-id="SuspilneZhytomyr.ua" group-title="Ukraine",Суспільне Житомир Ⓢ
@@ -59,11 +59,11 @@ http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
 http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
 #EXTINF:-1 tvg-name="Суспільне Kropyvnytskyi" tvg-logo="https://i.imgur.com/zzYJr87.png" tvg-id="SuspilneKropyvnytskyi.ua" group-title="Ukraine",Суспільне Kropyvnytskyi
 http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
-
 #EXTINF:-1 tvg-name="Суспільне Тернопіль" tvg-logo="https://i.imgur.com/rxXyCY7.png" tvg-id="SuspilneTernopil.ua" group-title="Ukraine",Суспільне Тернопіль
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 #EXTINF:-1 tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" tvg-id="SuspilneChernihiv.ua" group-title="Ukraine",Суспільне Чернігів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
+
 #EXTINF:-1 tvg-name="FREEДOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" tvg-id="FREEDOM.ua" group-title="Ukraine",FREEДOM
 http://95.67.106.242/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" tvg-id="24Kanal.ua" group-title="Ukraine",24 Kanal
