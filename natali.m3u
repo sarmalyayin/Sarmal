@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="espresotv" tvg-name="Espreso TV" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Espreso TV
-https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-id="espresotv" tvg-name="Espreso TV" tvg-country="ua" tvg-language="ua" group-title="Ukraine",TV 100
+https://helgatv.reddommodder.workers.dev/tv100
 #EXTINF:-1 tvg-id="ewtnukraine" tvg-name="EWTN Ukraine" tvg-country="ua" tvg-language="ua" group-title="Ukraine",EWTN Ukraine
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="freedomfreeomuatv1" tvg-name="Freedom (FREEДOM) (UATV) (1)" tvg-country="ua" tvg-language="ua" group-title="Ukraine",Freedom (FREEДOM) (UATV) (1)
